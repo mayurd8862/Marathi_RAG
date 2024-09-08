@@ -6,7 +6,7 @@ from langchain_groq import ChatGroq
 import streamlit as st
 
 
-model =["llama3-8b-8192","gemma-7b-it","llama3.1-8b-instant"]
+model =["llama3-8b-8192","gemma-7b-it"]
 
 def groq(context,query, model):
 

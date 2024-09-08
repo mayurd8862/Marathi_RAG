@@ -1,0 +1,9 @@
+langchain_text_splitters
+cohere
+streamlit
+numpy
+pinecone
+langchain_google_genai
+langchain_core
+langchain_groq
+
